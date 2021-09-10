@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>An Old Hope</string>
+	<string>an-old-hope</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -20,11 +20,11 @@
 				<key>foreground</key>
 				<string>#F8F8F2</string>
 				<key>invisibles</key>
-				<string>#767676</string>
+				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#2f3542</string>
+				<string>#2F3542</string>
 				<key>selection</key>
-				<string>#767676</string>
+				<string>#49483E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -57,7 +57,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EF7C2B</string>
+				<string>#7851A9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -68,7 +68,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#50B4D8</string>
+				<string>#7851A9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -79,7 +79,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#50B4D8</string>
+				<string>#7851A9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -91,6 +91,8 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
+				<key>foreground</key>
+				<string>#78BC65</string>
 			</dict>
 		</dict>
 		<dict>
@@ -111,6 +113,8 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
 				<string>#EB3D54</string>
 			</dict>
@@ -125,7 +129,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#78BC65</string>
+				<string>#50B4D8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -136,9 +140,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>underline </string>
+				<string>underline</string>
 				<key>foreground</key>
-				<string>#78BC65</string>
+				<string>#E7CE57</string>
 			</dict>
 		</dict>
 		<dict>
@@ -149,9 +153,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic underline </string>
+				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#78BC65</string>
+				<string>#E7CE57</string>
 			</dict>
 		</dict>
 		<dict>
@@ -161,8 +165,10 @@
 			<string>entity.name.function</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
-				<string>#78BC65</string>
+				<string>#E7CE57</string>
 			</dict>
 		</dict>
 		<dict>
@@ -185,6 +191,8 @@
 			<string>entity.name.tag</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
 				<string>#EB3D54</string>
 			</dict>
@@ -209,8 +217,10 @@
 			<string>support.function</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
-				<string>#EB3D54</string>
+				<string>#50B4D8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -220,8 +230,10 @@
 			<string>support.constant</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string></string>
 				<key>foreground</key>
-				<string>#EF7C2B</string>
+				<string>#50B4D8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -234,7 +246,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#E7CE57</string>
+				<string>#50B4D8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -246,6 +258,8 @@
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
+				<key>foreground</key>
+				<string>#78BC65</string>
 			</dict>
 		</dict>
 		<dict>
@@ -285,7 +299,5 @@
 	<string>theme.dark.monokai</string>
 	<key>author</key>
 	<string>Based on @JesseLeite&apos;s theme for Atom.</string>
-	<key>comment</key>
-	<string></string>
 </dict>
 </plist>

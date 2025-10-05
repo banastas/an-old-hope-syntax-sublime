@@ -1,9 +1,13 @@
 # An Old Hope
 
-A Sublime theme based on [@JesseLeite](https://github.com/JesseLeite/an-old-hope-syntax-atom)'s Atom theme inspired by a galaxy far far away...
+A theme based on [@JesseLeite](https://github.com/JesseLeite/an-old-hope-syntax-atom)'s Atom theme inspired by a galaxy far far away...
 
 ![palette](https://raw.githubusercontent.com/banastas/an-old-hope-syntax-sublime/master/palette.png)
 
-## Screenshot
+## Visual Studio Code
 
-![screenshot](https://raw.githubusercontent.com/banastas/an-old-hope-syntax-sublime/master/screenshot.png)
+![Visual Studio Code screenshot](https://raw.githubusercontent.com/banastas/an-old-hope-syntax-sublime/master/Visual%20Studio%20Code/VisualStudioCode.png)
+
+## Sublime
+
+![Sublime screenshot](https://raw.githubusercontent.com/banastas/an-old-hope-syntax-sublime/master/Sublime/Sublime.png)

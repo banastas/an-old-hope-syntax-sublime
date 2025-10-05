@@ -1,0 +1,22 @@
+{
+  "name": "an-old-hope-theme",
+  "displayName": "An Old Hope Theme",
+  "description": "A dark theme inspired by a galaxy far, far away",
+  "version": "1.0.0",
+  "publisher": "your-name",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "An Old Hope",
+        "uiTheme": "vs-dark",
+        "path": "./an-old-hope-color-theme.json"
+      }
+    ]
+  }
+}
